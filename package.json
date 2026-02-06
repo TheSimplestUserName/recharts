@@ -69,7 +69,7 @@
     "react-smooth": "^2.0.1",
     "recharts-scale": "^0.4.4",
     "reduce-css-calc": "^2.1.8",
-    "victory-vendor": "^36.6.8"
+    "victory-vendor": "^36.9.2"
   },
   "devDependencies": {
     "@babel/cli": "^7.6.4",
